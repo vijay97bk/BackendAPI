@@ -1,0 +1,5 @@
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
