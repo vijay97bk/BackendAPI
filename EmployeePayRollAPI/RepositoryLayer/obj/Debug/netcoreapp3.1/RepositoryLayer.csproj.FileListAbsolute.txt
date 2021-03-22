@@ -2,3 +2,11 @@ C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\Repository
 C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
 C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
 C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\BACKEND\EmployeePayRollAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb

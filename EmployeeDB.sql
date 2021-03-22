@@ -36,4 +36,11 @@ values ('Rohish', 'M',120000,'2002-01-08' ),
 
  update Department set DepartmentName2='Finance' where EmployeeID=1 or EmployeeID=4;
 update Department set DepartmentName2='HR', DepartmentName3='IT' where EmployeeID=3;
+update Department set DepartmentName2='HR', DepartmentName3='IT' where EmployeeID=1 or EmployeeID=2 or EmployeeID=3 or EmployeeID=4 or EmployeeID=5;
 
+update employee_Table set Notes='XYZ' where EmployeeID=1 or EmployeeID=2 or EmployeeID=3 or EmployeeID=4 or EmployeeID=5;
+
+alter table employee_Table
+ add Picture varchar(500) ;
+
+ update employee_Table set Picture='abc' where EmployeeID=1 or EmployeeID=2 or EmployeeID=3 or EmployeeID=4 or EmployeeID=5;

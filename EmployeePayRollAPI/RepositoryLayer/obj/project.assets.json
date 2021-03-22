@@ -5927,6 +5927,7 @@
     ".NETCoreApp,Version=v3.1": [
       "CommonLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.4",
+      "System.Collections >= 4.3.0",
       "System.Data.SqlClient >= 4.8.2"
     ]
   },
@@ -5976,6 +5977,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[5.0.4, )"
+          },
+          "System.Collections": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           },
           "System.Data.SqlClient": {
             "target": "Package",

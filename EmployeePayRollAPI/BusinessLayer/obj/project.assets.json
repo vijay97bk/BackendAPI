@@ -1562,6 +1562,7 @@
         "dependencies": {
           "CommonLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4",
+          "System.Collections": "4.3.0",
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
